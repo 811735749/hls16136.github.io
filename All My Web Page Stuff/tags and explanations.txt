@@ -1,0 +1,31 @@
+LIST OF TAGS AND WHY USED:
+
+1. <table> : for images, lists and pricing information
+	2. <tr> new table rows
+	3. <td> table components-data
+	4. <th> table header for pricing info table
+5. <p> : paragraphs of text, headers outside of tables, notes on the pricing page
+6. <a> : lots of pictures, GIFs, and links
+7. <div> : many divisions for style components (like centering text)
+8. <hr> : below the title for a page break
+9. <h1>, <h2>, <h3> : headers for various titles
+10. <ul> : lists for my style and pricing information
+	11. <li> : list components
+12. <img> : many images (it is an art portfolio, after all)
+13. <i> : italics for notes on pricing information
+14. <b> : bold for prices in pricing information table
+__________________________________________________________________________________
+
+LIST OF STYLES AND WHY USED:
+
+1. float: my picture and my socials (because I didn't have another place for them)
+2. text-align: centered text
+3. list-style-type: didn't want table style in the upper navigation menu
+4. font-family: all of my text is Arial
+5. background-image: made body and table backgrounds an image I made
+6. border-collapse: only wanted outside border for all of my tables
+7. padding: table spacing (wanted more gap between elements)
+8. colspan: pricing information title in the center of the table
+9. color: style consistency in titles/headers
+10. list-style-image: added custom bullet points that I made
+11. display: navigation menu at top for style
